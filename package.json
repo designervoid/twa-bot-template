@@ -16,7 +16,7 @@
     "start:force": "tsx ./scripts/start.ts",
     "prepare": "npx husky install"
   },
-  "author": "deptyped <deptyped@gmail.com>",
+  "author": "deptyped <deptyped@gmail.com> & dsgnrvd <dsgnrvd@gmail.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {
